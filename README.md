@@ -1,8 +1,21 @@
-![image](https://github.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/assets/167160078/81a2fd95-42eb-4c51-a7ec-091b6e2ba54e)Nama : Nafisa Elva Adiani
+## Pengkodean dan Pemrograman Sistem Penjualan Kios Tani
+Source Code Aplikasi Penjualan sederhana berbasis Website dengan PHP & MYSQL
+
+## Tugas UTS Pengkodean dan Pemrograman
+Nama : Nafisa Elva Adiani
 NIM : 12030122140313
 Kelas : E
 
-Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
+Referensi Web : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
+
+## Penggunaan Login
+Admin
+Username : admin 
+Password : admin123
+
+Pembeli
+Username : Nafisa Elva
+Password : elva123
 
 ## Referensi Menu Landing Page
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar1.png">
