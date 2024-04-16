@@ -1,10 +1,13 @@
 ## Pengkodean dan Pemrograman Sistem Penjualan Kios Tani
-Source Code Aplikasi Penjualan sederhana berbasis Website dengan PHP & MYSQL
+Source Code Aplikasi Penjualan sederhana berbasis Website dengan Laravel 9
 
 ## Tugas UTS Pengkodean dan Pemrograman
 Nama : Nafisa Elva Adiani
+<br/>
 NIM : 12030122140313
+<br>
 Kelas : E
+<br>
 
 Referensi Web : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
