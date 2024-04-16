@@ -15,7 +15,7 @@
                             <i class="bi bi-whatsapp" style="font-size: 2rem;"></i>
                         </span>
                     </a>
-                    <a href="https://www.instagram.com/telkomuniversity/" target="_blank">
+                    <a href="https://www.instagram.com/undip.official/" target="_blank">
                         <span class="social-icon">
                             <i class="bi bi-instagram" style="font-size: 2rem;"></i>
                         </span>
