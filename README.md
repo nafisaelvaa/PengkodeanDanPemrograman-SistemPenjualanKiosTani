@@ -1,4 +1,4 @@
-Nama : Nafisa Elva Adiani
+![image](https://github.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/assets/167160078/81a2fd95-42eb-4c51-a7ec-091b6e2ba54e)Nama : Nafisa Elva Adiani
 NIM : 12030122140313
 Kelas : E
 
@@ -79,6 +79,9 @@ Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
 ## Implementasi Menu Edit Data (Admin)
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar36.png">
+
+## Tambahan menu yang tidak berada dalam referensi yaitu menu review pembeli pada implementasi web
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar38.png">
 
 ## Entity Relational Diagram
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar37.png">
