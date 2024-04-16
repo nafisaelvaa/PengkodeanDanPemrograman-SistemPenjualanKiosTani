@@ -18,12 +18,16 @@ Username : admin
 <br>
 Password : admin123
 <br>
+No Telp : 12345678
+<br>
 
 Pembeli
 <br>
-Username : Nafisa Elva
+Username : nafisa elva
 <br>
 Password : elva123
+<br>
+No Telp : 87654321
 <br>
 
 ## Referensi Menu Landing Page
