@@ -13,12 +13,18 @@ Referensi Web : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
 ## Penggunaan Login
 Admin
-Username : admin 
+<br>
+Username : admin
+<br>
 Password : admin123
+<br>
 
 Pembeli
+<br>
 Username : Nafisa Elva
+<br>
 Password : elva123
+<br>
 
 ## Referensi Menu Landing Page
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar1.png">
