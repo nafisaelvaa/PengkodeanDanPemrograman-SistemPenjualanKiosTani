@@ -73,3 +73,12 @@ Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
 ## Implementasi Menu Rekap Data (Pembeli)
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar34.png">
+
+## Referensi Menu Edit Data
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar35.png">
+
+## Implementasi Menu Edit Data (Admin)
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar36.png">
+
+## Entity Relational Diagram
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar37.png">
