@@ -64,3 +64,12 @@ Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
 ## Implementasi Menu Add Data (Pembeli)
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar31.png">
+
+## Referensi Menu Rekap Data
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar32.png">
+
+## Implementasi Menu Rekap Data (Admin)
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar33.png">
+
+## Implementasi Menu Rekap Data (Pembeli)
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar34.png">
