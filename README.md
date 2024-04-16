@@ -22,3 +22,10 @@ Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
 ## Implementasi Menu Registrasi
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar11.png">
+
+## Referensi Menu Login
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar12.png">
+
+## Implementasi Menu Login
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar13.png">
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar14.png">
