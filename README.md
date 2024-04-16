@@ -4,5 +4,7 @@ Kelas : E
 
 Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 
-Hasil Pengerjaan :
-https://bit.ly/JawabanUTS-NafisaElvaAdiani-12030122140313
+## Landing Page
+- Landing Page
+- Referensi
+<img src="https://drive.google.com/file/d/19Oyvj7uKOSnpRYPjmmdWgYnGKhk3COZt/view?usp=drive_link">
