@@ -50,8 +50,17 @@ Referensi : https://github.com/RafiAdiansyah/WebDevDigistarInternBatch4
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar25.png">
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar26.png">
 
-## Implementasi Menu Dashboard Admin
+## Implementasi Menu Dashboard (Admin)
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar27.png">
 
-## Implementasi Menu Dashboard Pembeli
+## Implementasi Menu Dashboard (Pembeli)
 <img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar28.png">
+
+## Referensi Menu Add Data
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar29.png">
+
+## Implementasi Menu Add Data (Admin)
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar30.png">
+
+## Implementasi Menu Add Data (Pembeli)
+<img src="https://raw.githubusercontent.com/nafisaelvaa/PengkodeanDanPemrograman-SistemPenjualanKiosTani/master/public/cdn/imgg/Gambar31.png">
